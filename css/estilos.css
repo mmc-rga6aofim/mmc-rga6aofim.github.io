@@ -127,7 +127,7 @@ a {
 }
 
 .menu a {
-    font-family: 'JetBrains Mono';
+    font-family: 'JetBrains Mono ML';
     color: #120902;
     text-decoration: none;
     padding: 0;
@@ -255,7 +255,7 @@ main h1.nombres:hover {
 }
 
 p {
-    font-family: 'JetBrains Mono';
+    font-family: 'JetBrains Mono ML';
     color: #120902;
     font-weight:600;
     font-size: 16px;
